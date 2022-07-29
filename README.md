@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/lucasmch/imgs/blob/master/logo-casacriativa.png?raw=true"> </img>
+  <img src="https://cdn.discordapp.com/attachments/856715876489625621/1002652787584290826/unknown.png"> </img>
 </p>
 <br>
 
